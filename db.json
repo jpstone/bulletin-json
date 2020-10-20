@@ -1,105 +1,103 @@
 {
-  "bootstrap": {
-    "date": "October 25th, 2020",
-    "sections": [
-      {
-        "name": "Prelude",
-        "links": [
-          {
-            "name": "It is Well with My Soul",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/prelude1.txt"
-          },
-          {
-            "name": "Before the Throne of God Above",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/prelude2.txt"
-          }
-        ]
-      },
-      {
-        "name": "Call to Worship",
-        "links": [
-          {
-            "name": "Psalm 115:9-11",
-            "href": "https://www.biblegateway.com/passage/?search=Psalm+115%3A9-11&version=ESV"
-          }
-        ]
-      },
-      {
-        "name": "Hymn of Approach",
-        "links": [
-          {
-            "name": "Psalm 115A",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfApproach.txt"
-          }
-        ]
-      },
-      {
-        "name": "Reading of the Law",
-        "links": [
-          {
-            "name": "Isaiah 63:15-19",
-            "href": "https://www.biblegateway.com/passage/?search=Isaiah+63%3A15-19&version=ESV"
-          }
-        ]
-      },
-      {
-        "name": "Assurance of Pardon",
-        "links": [
-          {
-            "name": "Ephesians 2:13-15",
-            "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A13-15&version=ESV"
-          }
-        ]
-      },
-      {
-        "name": "Hymn of Thanksgiving",
-        "links": [
-          {
-            "name": "In Christ Alone",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfThanksgiving.txt"
-          }
-        ]
-      },
-      {
-        "name": "Doxology",
-        "links": [
-          {
-            "name": "Click here for lyrics",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/doxology.txt"
-          }
-        ]
-      },
-      {
-        "name": "God's Word Read",
-        "links": [
-          {
-            "name": "Joel 2:1-13",
-            "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A13-15&version=ESV"
-          },
-          {
-            "name": "Revelation 9",
-            "href": "https://www.biblegateway.com/passage/?search=Revelation+9&version=ESV"
-          }
-        ]
-      },
-      {
-        "name": "Hymn of Response",
-        "links": [
-          {
-            "name": "When this Passing World is Done",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfResponse.txt"
-          }
-        ]
-      },
-      {
-        "name": "Benediction",
-        "links": [
-          {
-            "name": "Click here for lyrics",
-            "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/benediction.txt"
-          }
-        ]
-      }
-    ]
-  }
+  "date": "October 25th, 2020",
+  "sections": [
+    {
+      "name": "Prelude",
+      "links": [
+        {
+          "name": "It is Well with My Soul",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/prelude1.txt"
+        },
+        {
+          "name": "Before the Throne of God Above",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/prelude2.txt"
+        }
+      ]
+    },
+    {
+      "name": "Call to Worship",
+      "links": [
+        {
+          "name": "Psalm 115:9-11",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+115%3A9-11&version=ESV"
+        }
+      ]
+    },
+    {
+      "name": "Hymn of Approach",
+      "links": [
+        {
+          "name": "Psalm 115A",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfApproach.txt"
+        }
+      ]
+    },
+    {
+      "name": "Reading of the Law",
+      "links": [
+        {
+          "name": "Isaiah 63:15-19",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+63%3A15-19&version=ESV"
+        }
+      ]
+    },
+    {
+      "name": "Assurance of Pardon",
+      "links": [
+        {
+          "name": "Ephesians 2:13-15",
+          "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A13-15&version=ESV"
+        }
+      ]
+    },
+    {
+      "name": "Hymn of Thanksgiving",
+      "links": [
+        {
+          "name": "In Christ Alone",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfThanksgiving.txt"
+        }
+      ]
+    },
+    {
+      "name": "Doxology",
+      "links": [
+        {
+          "name": "Click here for lyrics",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/doxology.txt"
+        }
+      ]
+    },
+    {
+      "name": "God's Word Read",
+      "links": [
+        {
+          "name": "Joel 2:1-13",
+          "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A13-15&version=ESV"
+        },
+        {
+          "name": "Revelation 9",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+9&version=ESV"
+        }
+      ]
+    },
+    {
+      "name": "Hymn of Response",
+      "links": [
+        {
+          "name": "When this Passing World is Done",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfResponse.txt"
+        }
+      ]
+    },
+    {
+      "name": "Benediction",
+      "links": [
+        {
+          "name": "Click here for lyrics",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/benediction.txt"
+        }
+      ]
+    }
+  ]
 }
