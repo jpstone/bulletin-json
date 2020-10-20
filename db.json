@@ -1,0 +1,15 @@
+{
+  "bootstrap": {
+    "date": "October 19th, 2020",
+    "preludeSongs": [
+      {
+        "name": "It is Well with My Soul",
+        "href": "https://www.azlyrics.com/lyrics/mallaryhope/itiswellwithmysoul.html"
+      },
+      {
+        "name": "What Wonderous Love is This",
+        "href": "https://www.pateys.nf.ca/cgi-bin/lyrics.pl?font=regular&hymnnumber=242"
+      }
+    ]
+  }
+}
