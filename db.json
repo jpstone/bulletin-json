@@ -98,6 +98,15 @@
           "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/benediction.txt"
         }
       ]
+    },
+    {
+      "name": "Announcements",
+      "links": [
+        {
+          "name": "Click here to see announcements",
+          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/announcements.txt"
+        }
+      ]
     }
   ]
 }
