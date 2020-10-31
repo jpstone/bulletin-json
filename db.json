@@ -5,12 +5,12 @@
       "name": "Prelude",
       "links": [
         {
-          "name": "It is Well with My Soul",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/prelude1.txt"
+          "name": "O Love that Will Not Let Me Go",
+          "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Before the Throne of God Above",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/prelude2.txt"
+          "name": "His Mercy is More",
+          "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
     },
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 115:9-11",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+115%3A9-11&version=ESV"
+          "name": "Psalm 46:1-7; 10-11",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+46%3A1-7%2C10-11&version=ESV"
         }
       ]
     },
@@ -27,8 +27,8 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 115A",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfApproach.txt"
+          "name": "Psalm 46-A",
+          "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
     },
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Isaiah 63:15-19",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+63%3A15-19&version=ESV"
+          "name": "Exodus 20:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-3&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Ephesians 2:13-15",
-          "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A13-15&version=ESV"
+          "name": "Hebrews 10:11-13",
+          "href": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A11-13&version=ESV"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "In Christ Alone",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfThanksgiving.txt"
+          "name": "Jesus, Thy Blood and Righteousness",
+          "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "links": [
         {
           "name": "Click here for lyrics",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/doxology.txt"
+          "href": "https://jpstone.github.io/doxology.html"
         }
       ]
     },
@@ -72,12 +72,8 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Joel 2:1-13",
-          "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A13-15&version=ESV"
-        },
-        {
-          "name": "Revelation 9",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+9&version=ESV"
+          "name": "Zechariah 3:1-10",
+          "href": "https://www.biblegateway.com/passage/?search=Zechariah+3%3A1-10&version=ESV"
         }
       ]
     },
@@ -85,26 +81,17 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "When this Passing World is Done",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/hymnOfResponse.txt"
+          "name": "A Mighty Fotress is our God",
+          "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
     },
     {
-      "name": "Benediction",
+      "name": "Congregational Response",
       "links": [
         {
           "name": "Click here for lyrics",
-          "href": "https://raw.githubusercontent.com/jpstone/bulletin-json/main/benediction.txt"
-        }
-      ]
-    },
-    {
-      "name": "Announcements",
-      "links": [
-        {
-          "name": "Click here to see announcements",
-          "href": "https://5f9068d4579b7.htmlsave.net/"
+          "href": "https://jpstone.github.io/benediction.html"
         }
       ]
     }
