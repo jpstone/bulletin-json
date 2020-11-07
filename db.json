@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 46:1-7; 10-11",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+46%3A1-7%2C10-11&version=ESV"
+          "name": "Isaiah 6:1-5",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-5&version=ESV"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 46-A",
+          "name": "Holy, Holy, Holy",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Exodus 20:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-3&version=ESV"
+          "name": "Daniel 7:13-14",
+          "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Hebrews 10:11-13",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A11-13&version=ESV"
+          "name": "Romans 9:25-26",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+9%3A25-26&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Jesus, Thy Blood and Righteousness",
+          "name": "Before the Throne of God Above",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -72,8 +72,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Zechariah 3:1-10",
-          "href": "https://www.biblegateway.com/passage/?search=Zechariah+3%3A1-10&version=ESV"
+          "name": "Daniel 7:19-28",
+          "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A19-28&version=ESV"
+        },      
+        {
+          "name": "Revelation 11:1-14",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+11%3A1-14&version=ESV"
         }
       ]
     },
@@ -81,7 +85,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "A Mighty Fotress is our God",
+          "name": "Psalm 79-A",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
