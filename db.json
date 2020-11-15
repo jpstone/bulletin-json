@@ -1,15 +1,15 @@
 {
-  "date": "November 8th, 2020",
+  "date": "November 15, 2020",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "My One Comfort",
+          "name": "Jesus Paid it All",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "God Be Merciful to Me",
+          "name": "O Sacred Head, Now Wounded",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Isaiah 6:1-5",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-5&version=ESV"
+          "name": "Isaiah 40:1-5",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+40%3A1-5&version=ESV"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Holy, Holy, Holy",
+          "name": "Psalm 2-B",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Daniel 7:13-14",
-          "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14&version=ESV"
+          "name": "Hebrews 11:39-12:2",
+          "href": "https://www.biblegateway.com/passage/?search=Hebrews+11%3A39-12%3A2&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Romans 9:25-26",
-          "href": "https://www.biblegateway.com/passage/?search=Romans+9%3A25-26&version=ESV"
+          "name": "Zephaniah 3:14-17",
+          "href": "https://www.biblegateway.com/passage/?search=Zephaniah+3%3A14-17&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Before the Throne of God Above",
+          "name": "Be Thou My Vision (446)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -72,12 +72,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Daniel 7:19-28",
-          "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A19-28&version=ESV"
+          "name": "Exodus 15:1-21",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+15%3A1-21&version=ESV"
         },      
         {
-          "name": "Revelation 11:1-14",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+11%3A1-14&version=ESV"
+          "name": "Revelation 11:15-19",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+11%3A15-19&version=ESV"
         }
       ]
     },
@@ -85,7 +85,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Psalm 79-A",
+          "name": "Lift Up Your Heads, Ye Mighty Gates! (297)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
