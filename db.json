@@ -60,10 +60,14 @@
       ]
     },
     {
-      "name": "Doxology",
+      "name": "Tithes & Offerings",
       "links": [
         {
-          "name": "Click here for lyrics",
+          "name": "Give Online",
+          "href": "https://www.sterlingopc.org/donations"
+        },
+        {
+          "name": "Doxology",
           "href": "https://jpstone.github.io/doxology.html"
         }
       ]
