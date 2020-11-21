@@ -1,15 +1,15 @@
 {
-  "date": "November 15, 2020",
+  "date": "November 22, 2020",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Jesus Paid it All",
+          "name": "Come Behold the Wondrous Mystery",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "O Sacred Head, Now Wounded",
+          "name": "O Church of Christ, Invincible",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Isaiah 40:1-5",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+40%3A1-5&version=ESV"
+          "name": "Isaiah 9:6-7",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+9%3A6-7&version=ESV"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 2-B",
+          "name": "O Come, All Ye Faithful (319)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 11:39-12:2",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+11%3A39-12%3A2&version=ESV"
+          "name": "Isaiah 53:4-8",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+53%3A4-8&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Zephaniah 3:14-17",
-          "href": "https://www.biblegateway.com/passage/?search=Zephaniah+3%3A14-17&version=ESV"
+          "name": "Galatians 4:4-7",
+          "href": "https://www.biblegateway.com/passage/?search=Galatians+4%3A4-7&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Be Thou My Vision (446)",
+          "name": "A Mighty Fortress is Our God (224)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -76,12 +76,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Exodus 15:1-21",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+15%3A1-21&version=ESV"
+          "name": "Micah 5:1-6",
+          "href": "https://www.biblegateway.com/passage/?search=Micah+5%3A1-6&version=ESV"
         },      
         {
-          "name": "Revelation 11:15-19",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+11%3A15-19&version=ESV"
+          "name": "Revelation 12",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+12&version=ESV"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Lift Up Your Heads, Ye Mighty Gates! (297)",
+          "name": "Psalm 23A",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
