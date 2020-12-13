@@ -1,15 +1,15 @@
 {
-  "date": "December 6, 2020",
+  "date": "December 13, 2020",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Joy to the World!",
+          "name": "God Rest Ye Merry, Gentlemen",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Angels We Have Heard on High",
+          "name": "Psalm 91 (On Eagles' Wings)",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Isaiah 9:2-7",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+9%3A2-7&version=ESV"
+          "name": "Deuteronomy 6:4-9",
+          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=ESV"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Come, thou Long-Expected Jesus (300)",
+          "name": "To Us a Child of Hope is Born",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Isaiah 52:12-15",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+52%3A12-15&version=ESV"
+          "name": "Philippians 2:1-4",
+          "href": "https://www.biblegateway.com/passage/?search=Philippians+2%3A1-4&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Hebrews 10:12-14",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A12-14&version=ESV"
+          "name": "Psalm 130:7-8",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+130%3A7-8&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Before the Throne of God Above (277)",
+          "name": "From Depths of Woe I Raise to Thee",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -76,8 +76,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "1 Timothy 2:1-7",
-          "href": "https://www.biblegateway.com/passage/?search=1+Timothy+2%3A1-7&version=ESV"
+          "name": "Daniel 3:3-18",
+          "href": "https://www.biblegateway.com/passage/?search=Daniel+3%3A3-18&version=ESV"
+        },
+        {
+          "name": "Revelation 13:11-18",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+13%3A11-18&version=ESV"
         }
       ]
     },
@@ -85,7 +89,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "The Church's One Foundation (404)",
+          "name": "The One Who Dwells in God (Psalm 91A)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
