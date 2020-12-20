@@ -1,15 +1,15 @@
 {
-  "date": "December 13, 2020",
+  "date": "December 20, 2020",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "God Rest Ye Merry, Gentlemen",
+          "name": "Go Tell It On The Mountain",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Psalm 91 (On Eagles' Wings)",
+          "name": "O Holy Night (Hear the Gospel Story)",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Deuteronomy 6:4-9",
-          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=ESV"
+          "name": "Psalm 63:1-4",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+63%3A1-4&version=ESV"
         }
       ]
     },
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Philippians 2:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Philippians+2%3A1-4&version=ESV"
+          "name": "Exodus 20:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-3&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Psalm 130:7-8",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+130%3A7-8&version=ESV"
+          "name": "1 John 1:8-9",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+1%3A8-9&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "From Depths of Woe I Raise to Thee",
+          "name": "Psalm 51C",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -76,12 +76,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Daniel 3:3-18",
-          "href": "https://www.biblegateway.com/passage/?search=Daniel+3%3A3-18&version=ESV"
+          "name": "Psalm 91",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+91&version=ESV"
         },
         {
-          "name": "Revelation 13:11-18",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+13%3A11-18&version=ESV"
+          "name": "Galatians 4:8-20",
+          "href": "https://www.biblegateway.com/passage/?search=Galatians+4%3A8-20&version=ESV"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "The One Who Dwells in God (Psalm 91A)",
+          "name": "Lead Me, Lord",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
