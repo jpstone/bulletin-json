@@ -1,15 +1,15 @@
 {
-  "date": "January 10, 2021",
+  "date": "January 17, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "On Jordan's Stormy Banks",
+          "name": "Jesus Paid it All",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "O Love that Will Not Let Me Go",
+          "name": "O Sacred Head, Now Wounded",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Isaiah 63:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+63%3A1-2&version=ESV"
+          "name": "Psalm 87",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+87&version=ESV"
         }
       ]
     },
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "2 Peter 3:11-14",
-          "href": "https://www.biblegateway.com/passage/?search=2+Peter+3%3A11-14&version=ESV"
+          "name": "Jeremiah 2:9-13",
+          "href": "https://www.biblegateway.com/passage/?search=Jeremiah+2%3A9-13&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Genesis 3:16",
-          "href": "https://www.biblegateway.com/passage/?search=Genesis+3%3A16&version=ESV"
+          "name": "1 John 1:8-9",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+1%3A8-9&version=ESV"
         }
       ]
     },
@@ -76,12 +76,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Joel 3:9-16",
-          "href": "https://www.biblegateway.com/passage/?search=Joel+3%3A9-16&version=ESV"
+          "name": "Deuteronomy 31:30-32:9",
+          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A30-32%3A9&version=ESV"
         },
         {
-          "name": "Revelation 14:14-20",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+14%3A14-20&version=ESV"
+          "name": "Revelation 15",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+15&version=ESV"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "The Earth and its Riches",
+          "name": "A Hymn of Glory Let Us Sing",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
