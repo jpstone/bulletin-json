@@ -1,5 +1,5 @@
 {
-  "date": "February 21, 2021",
+  "date": "February 28, 2021",
   "sections": [
     {
       "name": "Prelude",
@@ -18,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 46:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=ESV"
+          "name": "Psalm 137:1-6",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+137%3A1-6&version=ESV"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Who with God Most High Finds Shelter",
+          "name": "By Flowing Streams in Babylon",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Isaiah 43:10-13",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+43%3A10-13&version=ESV"
+          "name": "Matthew 22:34-40",
+          "href": "https://www.biblegateway.com/passage/?search=Matthew+22%3A34-40&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Hebrews 4:14-16",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+4%3A14-16&version=ESV"
+          "name": "Isaiah 66:18-23",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+18%3A18-23&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "LORD, from the Depths to You I Cry!",
+          "name": "I Was Filled with Joy and Gladness",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -76,12 +76,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Daniel 7:15-28",
-          "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A15-28&version=ESV"
+          "name": "Jeremiah 51:59-64",
+          "href": "https://www.biblegateway.com/passage/?search=Jeremiah+51%3A59-64&version=ESV"
         },
         {
-          "name": "Revelation 17:7-18",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+17%3A7-18&version=ESV"
+          "name": "Revelation 18",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+18&version=ESV"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Shout, for the Blessed Jesus Reigns!",
+          "name": "For All the Saints",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
