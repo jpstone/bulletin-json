@@ -1,15 +1,15 @@
 {
-  "date": "March 14, 2021",
+  "date": "March 21, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Romans 11 Doxology",
+          "name": "His Mercy is More",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "All People that on Earth do Dwell",
+          "name": "It is Well With My Soul",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -18,13 +18,13 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 29:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+29%3A1-4&version=ESV"
+          "name": "Isaiah 9:6-7",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+9%3A6-7&version=ESV"
         }
       ]
     },
     {
-      "name": "Hymn of Approach",
+      "name": "Look, Ye Saints, the Sight is Glorious (378)",
       "links": [
         {
           "name": "Psalm 119-L",
@@ -36,8 +36,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Matthew 5:17-20",
-          "href": "https://www.biblegateway.com/passage/?search=Matthew+5%3A17-20&version=ESV"
+          "name": "Isaiah 53:4-8",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+53%3A4-8&version=ESV"
         }
       ]
     },
@@ -45,8 +45,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Romans 8:3-4",
-          "href": "https://www.biblegateway.com/passage/?search=Romans+8%3A3-4&version=ESV"
+          "name": "Galatians 4:4-7",
+          "href": "https://www.biblegateway.com/passage/?search=Galatians+4%3A4-7&version=ESV"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Jesus, Lover of My Soul",
+          "name": "O God Beyond All Praising (241)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -76,8 +76,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "1 Peter 1:1-12",
-          "href": "https://www.biblegateway.com/passage/?search=1+Peter+1%3A1-12&version=ESV"
+          "name": "Isaiah 62:1-5",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+62%3A1-5&version=ESV"
+        },
+        {    
+          "name": "Revelation 19:11-21",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+19%3A11-21&version=ESV"
         }
       ]
     },
@@ -85,7 +89,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "How Shall They Hear the Word of God",
+          "name": "The Earth and its Riches (24B)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
