@@ -1,16 +1,12 @@
 {
-  "date": "March 21, 2021",
+  "date": "March 28, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "His Mercy is More",
+          "name": "Be Not Far Off (Psalm 22)",
           "href": "https://jpstone.github.io/first-prelude.html"
-        },
-        {
-          "name": "It is Well With My Soul",
-          "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
     },
@@ -18,8 +14,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Isaiah 9:6-7",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+9%3A6-7&version=ESV"
+          "name": "Psalm 25:4-6",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+25%3A4-6&version=ESV"
         }
       ]
     },
@@ -27,7 +23,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Look, Ye Saints, the Sight is Glorious (378)",
+          "name": "Come, Thou Fount of Every Blessing (429)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -36,8 +32,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Isaiah 53:4-8",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+53%3A4-8&version=ESV"
+          "name": "Leviticus 19:17-18",
+          "href": "https://www.biblegateway.com/passage/?search=Leviticus+19%3A17-18&version=ESV"
         }
       ]
     },
@@ -45,8 +41,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Galatians 4:4-7",
-          "href": "https://www.biblegateway.com/passage/?search=Galatians+4%3A4-7&version=ESV"
+          "name": "1 John 4:10-12",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+4%3A10-12&version=ESV"
         }
       ]
     },
@@ -54,7 +50,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "O God Beyond All Praising (241)",
+          "name": "Now Unto Jehova, Ye Sons of the Mighty (29B)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -76,12 +72,8 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Isaiah 62:1-5",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+62%3A1-5&version=ESV"
-        },
-        {    
-          "name": "Revelation 19:11-21",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+19%3A11-21&version=ESV"
+          "name": "2 John 1:1-6",
+          "href": "https://www.biblegateway.com/passage/?search=2+John&version=ESV"
         }
       ]
     },
@@ -89,7 +81,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "The Earth and its Riches (24B)",
+          "name": "O Love of God, How Strong and True (240)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
