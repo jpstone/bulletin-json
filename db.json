@@ -1,15 +1,15 @@
 {
-  "date": "April 4, 2021",
+  "date": "April 11, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Preserve Me, O God (16B)",
+          "name": "Come Thou Fount",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "He Arose!",
+          "name": "Romans 11 Doxology",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 18:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+18%3A1-3&version=ESV"
+          "name": "Psalm 102:25-28",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+102%3A25-28&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "I Love You, Lord, My Strength (18B)",
+          "name": "O Bless the LORD with All My Soul (103B)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Romans 12:17-21",
-          "href": "https://www.biblegateway.com/passage/?search=Romans+12%3A17-21&version=ESV"
+          "name": "Psalm 139:23-24",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+139%3A23-24&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Exodus 20:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-2&version=ESV"
+          "name": "2 Corinthians 6:16-7:1",
+          "href": "https://www.biblegateway.com/passage/?search=2+Corinthians+6%3A16-2+Corinthians+7%3A1&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Forgive Our Sins, as We Forgive (179)",
+          "name": "From Depths of Woe I Raise to Thee (503)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -96,8 +96,8 @@
           "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A9-14&version=ESV"
         },
         {
-          "name": "Revelation 20:1-10",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+20%3A1-10&version=ESV"
+          "name": "Revelation 20:11-15",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+20%3A11-15&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "The Son of God Goes Forth to War (541)",
+          "name": "For All the Saints (408)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
