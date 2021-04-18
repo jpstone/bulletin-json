@@ -1,15 +1,15 @@
 {
-  "date": "April 11, 2021",
+  "date": "April 18, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Come Thou Fount",
+          "name": "'Tis So Sweet to Trust in Jesus",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Romans 11 Doxology",
+          "name": "All People That On Earth Do Dwell",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 102:25-28",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+102%3A25-28&version=ESV"
+          "name": "Psalm 50:1-6",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+50%3A1-6&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "O Bless the LORD with All My Soul (103B)",
+          "name": "Why do Heathen Nations Rage? (2B)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Psalm 139:23-24",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+139%3A23-24&version=ESV"
+          "name": "2 Peter 3:11-13",
+          "href": "https://www.biblegateway.com/passage/?search=2+Peter+3%3A11-13&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "2 Corinthians 6:16-7:1",
-          "href": "https://www.biblegateway.com/passage/?search=2+Corinthians+6%3A16-2+Corinthians+7%3A1&version=ESV"
+          "name": "Exodus 34:6-8",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+34%3A6-8&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "From Depths of Woe I Raise to Thee (503)",
+          "name": "Great God, What Do I See and Hear? (389)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Daniel 7:9-14",
-          "href": "https://www.biblegateway.com/passage/?search=Daniel+7%3A9-14&version=ESV"
+          "name": "Isaiah 65:17-25",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+65%3A17-25&version=ESV"
         },
         {
-          "name": "Revelation 20:11-15",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+20%3A11-15&version=ESV"
+          "name": "Revelation 21:1-8",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+21%3A1-8&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "For All the Saints (408)",
+          "name": "Be Thou My Vision (446)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
