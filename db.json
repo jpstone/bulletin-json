@@ -1,15 +1,15 @@
 {
-  "date": "May 9, 2021",
+  "date": "May 16, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "O Love that Will Not Let Me Go",
+          "name": "And Can it Be",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Romans 11 Doxology",
+          "name": "My Worth is Not in What I Own",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "1 Kings 8:54-58",
-          "href": "https://www.biblegateway.com/passage/?search=1+Kings+54%3A54-58&version=ESV"
+          "name": "Psalm 105:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+105%3A1-3&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Rejoice, the Lord is King",
+          "name": "God Himself is With Us",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 12:3-6",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A3-6&version=ESV"
+          "name": "Exodus 20:1-6",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-6&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Isaiah 55:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+55%3A1-3&version=ESV"
+          "name": "Colossians 2:13-14",
+          "href": "https://www.biblegateway.com/passage/?search=Colossians+2%3A13-14&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 23-C",
+          "name": "Psalm 116-A",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Daniel 2:44-45",
-          "href": "https://www.biblegateway.com/passage/?search=Daniel+2%3A44-45&version=ESV"
+          "name": "1 John 6:35-40",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+6%3A35-40&version=ESV"
         },
         {
-          "name": "Revelation 22:6-21",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+22%3A6-21&version=ESV"
+          "name": "Ruth 1",
+          "href": "https://www.biblegateway.com/passage/?search=Ruth+1&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Come to the Waters",
+          "name": "Jesus I am Resting, Resting",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
