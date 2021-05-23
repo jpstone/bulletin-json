@@ -1,16 +1,16 @@
 {
-  "date": "May 16, 2021",
+  "date": "May 23, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "And Can it Be",
-          "href": "https://spcsunday.tiiny.site/first-prelude.html"
+          "name": "His Mercy is More",
+          "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "My Worth is Not in What I Own",
-          "href": "https://spcsunday.tiiny.site/second-prelude.html"
+          "name": "It is Well (With My Soul)",
+          "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
     },
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 105:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+105%3A1-3&version=ESV"
+          "name": "Psalm 134",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+134&version=ESV"
         }
       ]
     },
@@ -31,8 +31,8 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "God Himself is With Us",
-          "href": "https://spcsunday.tiiny.site/hymn-of-approach.html"
+          "name": "Psalm 100-A",
+          "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
     },
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Exodus 20:1-6",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-6&version=ESV"
+          "name": "Exodus 20:7-11",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A7-11&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Colossians 2:13-14",
-          "href": "https://www.biblegateway.com/passage/?search=Colossians+2%3A13-14&version=ESV"
+          "name": "Romans 8:31-39",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+8%3A31-39&version=ESV"
         }
       ]
     },
@@ -66,8 +66,8 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 116-A",
-          "href": "https://spcsunday.tiiny.site/hymn-of-thanksgiving.html"
+          "name": "O Father, You are Sovereign",
+          "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
     },
@@ -92,12 +92,8 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "1 John 6:35-40",
+          "name": "Ruth 2",
           "href": "https://www.biblegateway.com/passage/?search=1+John+6%3A35-40&version=ESV"
-        },
-        {
-          "name": "Ruth 1",
-          "href": "https://www.biblegateway.com/passage/?search=Ruth+1&version=ESV"
         }
       ]
     },
@@ -105,8 +101,8 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Jesus I am Resting, Resting",
-          "href": "https://spcsunday.tiiny.site/hymn-of-response.html"
+          "name": "May the Mind of Christ, My Savior",
+          "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
     },
