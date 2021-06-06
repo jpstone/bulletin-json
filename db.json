@@ -1,15 +1,15 @@
 {
-  "date": "May 30, 2021",
+  "date": "June 6, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "'Tis so Sweet to Trust in Jesus",
+          "name": "On Jordan's Stormy Banks",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "O Sacred Head, Now Wounded",
+          "name": "Come, Thou Fount",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 30:2-5",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+30%3A2-5&version=ESV"
+          "name": "Psalm 29:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+29%3A1-2&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "We Come, O Christ, to You",
+          "name": "O God, Beyond All Praising (241)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Exodus 20:12-14",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A12-14&version=ESV"
+          "name": "Exodus 20:15-17",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A15-17&version=ESV"
         }
       ]
     },
@@ -57,7 +57,7 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Hebrews 9:11-15",
+          "name": "Ephesians 2:1-10",
           "href": "https://www.biblegateway.com/passage/?search=Hebrews+9%3A11-15&version=ESV"
         }
       ]
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Arise, My Soul, Arise",
+          "name": "Psalm 22B",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "John 14:15-28",
-          "href": "https://www.biblegateway.com/passage/?search=John+14%3A15-28&version=ESV"
+          "name": "Matthew 1:1-6",
+          "href": "https://www.biblegateway.com/passage/?search=Matthew+1%3A1-6&version=ESV"
         },
         {
-          "name": "Ruth 3",
-          "href": "https://www.biblegateway.com/passage/?search=Ruth+3&version=ESV"
+          "name": "Ruth 4",
+          "href": "https://www.biblegateway.com/passage/?search=Ruth+4&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Who with God Most High Finds Shelter",
+          "name": "All My Heart this Night Rejoices (307)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
