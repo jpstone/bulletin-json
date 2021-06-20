@@ -1,15 +1,15 @@
 {
-  "date": "June 13, 2021",
+  "date": "June 20, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "I Stand Amazed (How Marvelous!)",
+          "name": "Preserve Me, O God",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Grace Greater Than All Our Sin (Marvelous Grace!)",
+          "name": "Behold Our God",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 68:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+68%3A1-3&version=ESV"
+          "name": "Revelation 4:5-11",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+48%3A5-11&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Christ the Lord is Risen Today",
+          "name": "Holy, Holy, Holy! (230)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Isaiah 43:16-24",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+43%3A16-24&version=ESV"
+          "name": "Leviticus 11:44-47",
+          "href": "https://www.biblegateway.com/passage/?search=Leviticus+113%3A44-47&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "2 Corinthians 5:16-17",
-          "href": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A16-17&version=ESV"
+          "name": "1 Corinthians 1:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A1-2&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Jesus Lives, and So Shall I",
+          "name": "Before the Throne of God Above (277)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Psalm 16:7-11",
-          "href": "https://www.biblegateway.com/passage/?search=PSalm+16%3A7-11&version=ESV"
+          "name": "Hebrews 12:18-29",
+          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A18-29&version=ESV"
         },
         {
-          "name": "John 20:1-18",
-          "href": "https://www.biblegateway.com/passage/?search=John+20%3A1-18&version=ESV"
+          "name": "Isaiah 6:1-7",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-7&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Psalm 24B",
+          "name": "Psalm 119B",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
