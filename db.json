@@ -1,15 +1,15 @@
 {
-  "date": "June 20, 2021",
+  "date": "June 27, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Preserve Me, O God",
+          "name": "Jesus Paid it All",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Behold Our God",
+          "name": "Psalm 22 Be Not Far Off",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Revelation 4:5-11",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+4%3A5-11&version=ESV"
+          "name": "Psalm  100",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+100&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Holy, Holy, Holy! (230)",
+          "name": "Psalm 27A",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Leviticus 11:44-47",
-          "href": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A44-47&version=ESV"
+          "name": "Luke 18:9-14",
+          "href": "https://www.biblegateway.com/passage/?search=Luke+18%3A49-14&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "1 Corinthians 1:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A1-2&version=ESV"
+          "name": "1 John 1:5-9",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+1%3A5-9&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Before the Throne of God Above (277)",
+          "name": "O For a Thousand Tongues to Sing (291)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Hebrews 12:18-29",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A18-29&version=ESV"
+          "name": "Genesis 12:1-5",
+          "href": "https://www.biblegateway.com/passage/?search=Genesis+12%3A1-5&version=ESV"
         },
         {
-          "name": "Isaiah 6:1-7",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-7&version=ESV"
+          "name": "Titus 1:1-4",
+          "href": "https://www.biblegateway.com/passage/?search=Titus+1%3A1-4&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Psalm 119B",
+          "name": "Take My Life and Let it Be (538)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
