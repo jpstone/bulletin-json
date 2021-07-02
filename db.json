@@ -1,15 +1,15 @@
 {
-  "date": "June 27, 2021",
+  "date": "July 4, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Jesus Paid it All",
+          "name": "Grace Alone",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Psalm 22 Be Not Far Off",
+          "name": "Psalm 124",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm  100",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+100&version=ESV"
+          "name": "Psalm 107:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+107%3A1-3&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 27A",
+          "name": "Safely Through Another Week (152)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Luke 18:9-14",
-          "href": "https://www.biblegateway.com/passage/?search=Luke+18%3A49-14&version=ESV"
+          "name": "1 Peter 1:13-15",
+          "href": "https://www.biblegateway.com/passage/?search=1+Peter+1%3A13-15&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "O For a Thousand Tongues to Sing (291)",
+          "name": "Nothing But the Blood (278)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Genesis 12:1-5",
-          "href": "https://www.biblegateway.com/passage/?search=Genesis+12%3A1-5&version=ESV"
+          "name": "Exodus 19:1-8",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+19%3A1-8&version=ESV"
         },
         {
-          "name": "Titus 1:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Titus+1%3A1-4&version=ESV"
+          "name": "Titus 1:5-9",
+          "href": "https://www.biblegateway.com/passage/?search=Titus+1%3A5-9&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Take My Life and Let it Be (538)",
+          "name": "Psalm 23-C",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
