@@ -1,15 +1,15 @@
 {
-  "date": "July 11, 2021",
+  "date": "July 18, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Come Then, Lord Jesus",
+          "name": "Behold Our God",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Be Thou My Vision",
+          "name": "From Heav'n O Praise the Lord",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 92:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+92%3A1-4&version=ESV"
+          "name": "Psalm 66:1-4",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+66%3A1-4&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 8A",
+          "name": "Psalm 115A",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "2 Samuel 12:13a",
-          "href": "https://www.biblegateway.com/passage/?search=2+Samuel+12%3A13&version=ESV"
+          "name": "Matthew 12:33-37",
+          "href": "https://www.biblegateway.com/passage/?search=Matthew+12%3A33-37&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "2 Samuel 12:13b",
-          "href": "https://www.biblegateway.com/passage/?search=2+Samuel+12%3A13&version=ESV"
+          "name": "1 Peter 1:17-21",
+          "href": "https://www.biblegateway.com/passage/?search=1+Peter+1%3A17-21&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "To God Be the Glory (236)",
+          "name": "Jesus Thy Blood and Righteousness (457)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Malachi 2:1-9",
-          "href": "https://www.biblegateway.com/passage/?search=Malachi+2%3A1-9&version=ESV"
+          "name": "Deuteronomy 6:10-13",
+          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A10-13&version=ESV"
         },
         {
-          "name": "Titus 1:10-16",
-          "href": "https://www.biblegateway.com/passage/?search=Titus+1%3A10-16&version=ESV"
+          "name": "Titus 2:1-10",
+          "href": "https://www.biblegateway.com/passage/?search=Titus+2%3A1-10&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Thy Works, Not Mine, O Christ (460)",
+          "name": "All for Jesus (502)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
