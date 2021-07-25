@@ -1,15 +1,15 @@
 {
-  "date": "July 18, 2021",
+  "date": "July 25, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "Behold Our God",
+          "name": "Grace Greater Than All Our Sin (Marvelous Grace!)",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "From Heav'n O Praise the Lord",
+          "name": "Psalm 148A",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 66:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+66%3A1-4&version=ESV"
+          "name": "Psalm 18:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+18%3A1-3&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 115A",
+          "name": "Psalm 124",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Matthew 12:33-37",
-          "href": "https://www.biblegateway.com/passage/?search=Matthew+12%3A33-37&version=ESV"
+          "name": "Isaiah 53:4-6",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+53%3A4-6&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "1 Peter 1:17-21",
-          "href": "https://www.biblegateway.com/passage/?search=1+Peter+1%3A17-21&version=ESV"
+          "name": "Galatians 3:21-29",
+          "href": "https://www.biblegateway.com/passage/?search=Galatians+3%3A21-29&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Jesus Thy Blood and Righteousness (457)",
+          "name": "Before the Throne of God Above (277)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,16 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Deuteronomy 6:10-13",
-          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A10-13&version=ESV"
+          "name": "Genesis 15:12-21",
+          "href": "https://www.biblegateway.com/passage/?search=Genesis+15%3A12-21&version=ESV"
         },
         {
-          "name": "Titus 2:1-10",
-          "href": "https://www.biblegateway.com/passage/?search=Titus+2%3A1-10&version=ESV"
+          "name": "Exodus 1:1-7",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+1%3A1-7&version=ESV"
+        },
+        {
+          "name": "1 Corinthians 10:1-13",
+          "href": "https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A1-13&version=ESV"
         }
       ]
     },
@@ -105,7 +109,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "All for Jesus (502)",
+          "name": "Guide Me, O Thou Great Jehova (524)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
