@@ -1,6 +1,19 @@
 {
-  "date": "August 1, 2021",
+  "date": "August 8, 2021",
   "sections": [
+    {
+      "name": "Prelude",
+      "links": [
+        {
+          "name": "Arise, My Soul, Arise",
+          "href": "https://jpstone.github.io/first-prelude.html"
+        },
+        {
+          "name": "Psalm 100",
+          "href": "https://jpstone.github.io/second-prelude.html"
+        }
+      ]
+    },
     {
       "name": "Salutation",
       "links": []
@@ -9,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 73:1-3",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+73%3A1-3&version=ESV"
+          "name": "Psalm 99:1-5",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+99%3A1-5&version=ESV"
         }
       ]
     },
@@ -18,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 73-D",
+          "name": "Father, Long Before Creation (242)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Matthew 6:25-34",
-          "href": "https://www.biblegateway.com/passage/?search=Matthew+6%3A25-34&version=ESV"
+          "name": "Deuteronomy 24:19-22",
+          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+24%3A19-22&version=ESV"
         }
       ]
     },
@@ -44,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Exodus 20:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-2&version=ESV"
+          "name": "James 1:2-5",
+          "href": "https://www.biblegateway.com/passage/?search=James+1%3A2-5&version=ESV"
         }
       ]
     },
@@ -53,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "O Christ, Our Hope, Our Heart's Desire (267)",
+          "name": "O Love that Wilt Not Let Me Go (514)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Acts 7:17-22",
-          "href": "https://www.biblegateway.com/passage/?search=Acts+7%3A17-22&version=ESV"
+          "name": "Matthew 2:7-20",
+          "href": "https://www.biblegateway.com/passage/?search=Matthew+2%3A7-20&version=ESV"
         },
         {
-          "name": "Exodus 1:8-22",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+1%3A8-22&version=ESV"
+          "name": "Exodus 2:1-10",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+2%3A1-10&version=ESV"
         }
       ]
     },
@@ -92,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "The 10 Commandments (174)",
+          "name": "Psalm 98-A",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
