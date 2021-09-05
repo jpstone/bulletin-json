@@ -1,6 +1,19 @@
 {
-  "date": "August 29, 2021",
+  "date": "September 5, 2021",
   "sections": [
+    {
+      "name": "Prelude",
+      "links": [
+        {
+          "name": "Chide Me, O Lord, No Longer",
+          "href": "https://jpstone.github.io/first-prelude.html"
+        },
+        {
+          "name": "What a Friend We Have in Jesus",
+          "href": "https://jpstone.github.io/second-prelude.html"
+        }
+      ]
+    },
     {
       "name": "Salutation",
       "links": []
@@ -9,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Jeremiah 32:17-21",
-          "href": "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A17-21&version=ESV"
+          "name": "Jeremiah 31:9-10",
+          "href": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A9-10&version=ESV"
         }
       ]
     },
@@ -18,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "This Day at Thy Creating Word (154)",
+          "name": "O Love of God, How Strong and True",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 10:26-31",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A26-31&version=ESV"
+          "name": "Malachi 4:5-6",
+          "href": "https://www.biblegateway.com/passage/?search=Malachi+4%3A5-6&version=ESV"
         }
       ]
     },
@@ -44,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Zechariah 14:20-21",
-          "href": "https://www.biblegateway.com/passage/?search=Zechariah+14%3A20-21&version=ESV"
+          "name": "1 John 3:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+3%3A1-2&version=ESV"
         }
       ]
     },
@@ -53,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 51-C",
+          "name": "Blessed Are the Sons of God",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "John 10:22-42",
-          "href": "https://www.biblegateway.com/passage/?search=John+10%3A22-42&version=ESV"
+          "name": "Matthew 2:13-15",
+          "href": "https://www.biblegateway.com/passage/?search=Matthew+2%3A13-15&version=ESV"
         },
         {
-          "name": "Exodus 4:1-17",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+4%3A1-17&version=ESV"
+          "name": "Exodus 4:18-31",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+4%3A18-31&version=ESV"
         }
       ]
     },
@@ -92,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Jesus, I Am Resting, Resting",
+          "name": "Psalm 23-A",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
