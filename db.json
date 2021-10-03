@@ -1,6 +1,19 @@
 {
-  "date": "September 19, 2021",
+  "date": "October 3, 2021",
   "sections": [
+    {
+      "name": "Prelude",
+      "links": [
+        {
+          "name": "'Tis So Sweet to Trust in Jesus",
+          "href": "https://jpstone.github.io/first-prelude.html"
+        },
+        {
+          "name": "Psalm 100",
+          "href": "https://jpstone.github.io/second-prelude.html"
+        }
+      ]
+    },
     {
       "name": "Salutation",
       "links": []
@@ -9,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 118:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+118%3A1-4&version=ESV"
+          "name": "Psalm 135:6-14",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+135%3A6-14&version=ESV"
         }
       ]
     },
@@ -18,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 118-A",
+          "name": "O God Beyond all Praising (241)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hosea 6:4-6",
-          "href": "https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A4-6&version=ESV"
+          "name": "Exodus 20:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A1-3&version=ESV"
         }
       ]
     },
@@ -44,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Revelation 21:1-4",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+21%3A1-4&version=ESV"
+          "name": "Romans 8:31-39",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+8%3A31-39&version=ESV"
         }
       ]
     },
@@ -53,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Jerusalem the Golden",
+          "name": "Psalm 98-A",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "2 Corinthians 6:14-18",
-          "href": "https://www.biblegateway.com/passage/?search=2+Corinthians+6%3A14-18&version=ESV"
+          "name": "Romans 1:18-32",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+1%3A18-32&version=ESV"
         },
         {
-          "name": "Exodus 5:22-6:12",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+5%3A22-6%3A12&version=ESV"
+          "name": "Exodus 7:1-13",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+7%3A1-13&version=ESV"
         }
       ]
     },
@@ -92,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "In Christ Alone",
+          "name": "O Father, You Are Sovereign (233)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
