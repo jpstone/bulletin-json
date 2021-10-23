@@ -1,15 +1,15 @@
 {
-  "date": "October 17, 2021",
+  "date": "October 24, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "And Can it Be",
+          "name": "I Stand Amazed (How Marvelous!)",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "My Worth Is Not In What I Own",
+          "name": "Grace Greater Than All Our Sin (Marvelous Grace!)",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 116:12-14",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+116%3A12-14&version=ESV"
+          "name": "Psalm 86:8-11",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+86%3A8-11&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "To Your Temple I Repair",
+          "name": "Psalm 86-B",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 10:23-25",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A23-25&version=ESV"
+          "name": "Proverbs 28:13-14",
+          "href": "https://www.biblegateway.com/passage/?search=Proverbs+28%3A13-14&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Haggai 2:4-9",
-          "href": "https://www.biblegateway.com/passage/?search=Haggai+2%3A4-9&version=ESV"
+          "name": "Romans 15:8-12",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+15%3A8-12&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 32-B",
+          "name": "Lo, How a Rose E'er Blooming (305)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,8 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Psalm 100",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+100&version=ESV"
+          "name": "Romans 1:18-32",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+1%3A18-32&version=ESV"
+        },
+        {
+          "name": "Exodus 8:1-15",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+8%3A1-15&version=ESV"
         }
       ]
     },
@@ -101,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Psalm 100-B",
+          "name": "Lead Me, Lord (529)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
