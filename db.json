@@ -1,15 +1,15 @@
 {
-  "date": "November 7, 2021",
+  "date": "November 14, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "For I Am Convinced",
+          "name": "Psalm 124",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "Jesus Paid It All",
+          "name": "A Mighty Fortress Is Our God",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 105:43-45",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+105%3A43-45&version=ESV"
+          "name": "1 Chronicles 16:35-36",
+          "href": "https://www.biblegateway.com/passage/?search=1+Chronicles+16%3A35-36&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 8-B",
+          "name": "Song of Zechariah (294)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Exodus 19:4-6",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+19%3A4-6&version=ESV"
+          "name": "Deuteronomy 28:15-27",
+          "href": "https://www.biblegateway.com/passage/?search=Deuteronomy+28%3A15-27&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Ephesians 1:3-6",
-          "href": "https://www.biblegateway.com/passage/?search=Ephesians+1%3A3-6&version=ESV"
+          "name": "Hebrews 1:1-4",
+          "href": "https://www.biblegateway.com/passage/?search=Hebrews+1%3A1-4&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Great Is Thy Faithfulness (245)",
+          "name": "Rock of Ages (452)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "1 Peter 2:9-12",
-          "href": "https://www.biblegateway.com/passage/?search=1+Peter+2%3A9-12&version=ESV"
+          "name": "Revelation 16:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+16%3A1-2&version=ESV"
         },
         {
-          "name": "Exodus 8:16-32",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+8%3A16-32&version=ESV"
+          "name": "Exodus 9:1-12",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+9%3A1-12&version=ESV"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Father, Long Before Creation (242)",
+          "name": "Psalm 146",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
