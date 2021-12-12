@@ -1,15 +1,15 @@
 {
-  "date": "December 5, 2021",
+  "date": "December 12, 2021",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "O Come, All Ye Faithful",
+          "name": "What Child Is This",
           "href": "https://jpstone.github.io/first-prelude.html"
         },
         {
-          "name": "It Is Well (With My Soul)",
+          "name": "Angels We Have Heard on High",
           "href": "https://jpstone.github.io/second-prelude.html"
         }
       ]
@@ -22,8 +22,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 116:12-14",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+116%3A12-14&version=ESV"
+          "name": "Psalm 91:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+91%3A1-2&version=ESV"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "God Himself Is With Us (164)",
+          "name": "Psalm 91-B",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +44,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 13:1-6",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+13%3A1-6&version=ESV"
+          "name": "Leviticus 19:17-18",
+          "href": "https://www.biblegateway.com/passage/?search=Leviticus+19%3A17-18&version=ESV"
         }
       ]
     },
@@ -57,8 +57,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Haggai 2:4-9",
-          "href": "https://www.biblegateway.com/passage/?search=Haggai+2%3A4-9&version=ESV"
+          "name": "1 John 3:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+3%3A1-2&version=ESV"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 32-B",
+          "name": "How Deep the Father's Love for Us (351)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,8 +92,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Hebrews 12:12-25",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A12-25&version=ESV"
+          "name": "Jeremiah 31:31-34",
+          "href": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=ESV"
+        },
+        {
+          "name": "John 13:31-38",
+          "href": "https://www.biblegateway.com/passage/?search=John+13%3A31-38&version=ESV"
         }
       ]
     },
@@ -101,7 +105,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Praise to the Lord, the Almighty (216)",
+          "name": "All Praise to You, Eternal Lord (303)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
