@@ -1,15 +1,11 @@
 {
-  "date": "January 9, 2022",
+  "date": "January 16, 2022",
   "sections": [
     {
       "name": "Prelude",
       "links": [
         {
-          "name": "His Mercy Is More",
-          "href": "https://jpstone.github.io/first-prelude.html"
-        },
-        {
-          "name": "Psalm 16-B",
+          "name": "Psalm 22 (Be Not Far Off)",
           "href": "https://jpstone.github.io/first-prelude.html"
         }
       ]
@@ -22,8 +18,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "1 Chronicles 16:35-36",
-          "href": "https://www.biblegateway.com/passage/?search=1+Chronicles+16%3A35-36&version=ESV"
+          "name": "Psalm 135:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+135%3A1-2&version=ESV"
         }
       ]
     },
@@ -31,7 +27,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "All Glory Be to Thee, Most High (208)",
+          "name": "Psalm 135",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -44,8 +40,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Psalm 24:1-6",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+24%3A1-6&version=ESV"
+          "name": "Amos 5:16-20",
+          "href": "https://www.biblegateway.com/passage/?search=Amos+5%3A16-20&version=ESV"
         }
       ]
     },
@@ -57,8 +53,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "James 2:10-13",
-          "href": "https://www.biblegateway.com/passage/?search=James+2%3A10-13&version=ESV"
+          "name": "John 21:15-17",
+          "href": "https://www.biblegateway.com/passage/?search=John+21%3A15-17&version=ESV"
         }
       ]
     },
@@ -66,7 +62,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 23-A",
+          "name": "Sing, Choirs of New Jerusalem (358)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -92,12 +88,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Revelation 16:1-16",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+16%3A1-16&version=ESV"
+          "name": "Matthew 25:31-46",
+          "href": "https://www.biblegateway.com/passage/?search=Matthew+25%3A31-46&version=ESV"
         },
         {
-          "name": "Exodus 10:21-29",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+10%3A21-29&version=ESV"
+          "name": "Exodus 11",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+11&version=ESV"
         }
       ]
     },
@@ -105,7 +101,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Rock of Ages (452)",
+          "name": "'Tis Not That I Did Choose Thee (428)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
