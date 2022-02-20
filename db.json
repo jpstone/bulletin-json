@@ -1,5 +1,5 @@
 {
-  "date": "February 13, 2022",
+  "date": "February 20, 2022",
   "sections": [
     {
       "name": "Salutation",
@@ -9,8 +9,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 29:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=PSalm+29%3A1-2&version=ESV"
+          "name": "Psalm 44:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=PSalm+44%3A1-3&version=ESV"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 29-A",
+          "name": "More Than Conquerors (515)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +31,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 12:5-11",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A5-11&version=ESV"
+          "name": "Isaiah 50:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+50%3A1-3&version=ESV"
         }
       ]
     },
@@ -44,8 +44,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Isaiah 30:18-21",
-          "href": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A28-31&version=ESV"
+          "name": "Romans 8:31-39",
+          "href": "https://www.biblegateway.com/passage/?search=Romans+8%3A31-39&version=ESV"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "He Leadeth Me (526)",
+          "name": "Psalm 23-A",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,12 +79,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Luke 2:22-35",
-          "href": "https://www.biblegateway.com/passage/?search=Luke+2%3A22-35&version=ESV"
+          "name": "1 Corinthians 10:1-5",
+          "href": "https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A1-5&version=ESV"
         },
         {
-          "name": "Exodus 13:3-22",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+12%3A29-13%3A2&version=ESV"
+          "name": "Exodus 14:1-31",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+14%3A1-31&version=ESV"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Song of Simeon (295)",
+          "name": "Your Hand, O God, Has Guided (416)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
