@@ -1,5 +1,5 @@
 {
-  "date": "March 13, 2022",
+  "date": "March 20, 2022",
   "sections": [
     {
       "name": "Salutation",
@@ -9,8 +9,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Revelation 19:6-8",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+19%3A6-8&version=ESV"
+          "name": "Isaiah 55:1-3",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+55%3A1-3&version=ESV"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Zion to thy Savior Singing (199)",
+          "name": "Come Ye Sinners, Poor and Needy (439)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +31,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Isaiah 58:13-14",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+58%3A13-14&version=ESV"
+          "name": "Hebrews 3:7-19",
+          "href": "https://www.biblegateway.com/passage/?search=Hebrews+3%3A7-19&version=ESV"
         }
       ]
     },
@@ -44,8 +44,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Hebrews 10:11-14",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A11-14&version=ESV"
+          "name": "Isaiah 43:18-21",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+43%3A18-21&version=ESV"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "How Deep the Father's Love for Us (351)",
+          "name": "Psalm 73-D",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,12 +79,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Hebrews 4:1-10",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+4%3A1-10&version=ESV"
+          "name": "John 4:7-14",
+          "href": "https://www.biblegateway.com/passage/?search=Isaiah+4%3A7-14&version=ESV"
         },
         {
-          "name": "Exodus 16",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+16&version=ESV"
+          "name": "Exodus 17:1-7",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+17%3A1-7&version=ESV"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Psalm 91-B",
+          "name": "If Thou But Suffer God to Guide Thee (474)",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
