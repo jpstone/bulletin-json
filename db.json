@@ -1,5 +1,5 @@
 {
-  "date": "April 3, 2022",
+  "date": "April 10, 2022",
   "sections": [
     {
       "name": "Salutation",
@@ -9,8 +9,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Psalm 90:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=Psalm+90%3A1-2&version=ESV"
+          "name": "Revelation 5:6-10",
+          "href": "https://www.biblegateway.com/passage/?search=Revelation+5%3A6-10&version=ESV"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "I Greet Thee, Whom My Sure Redeemer Art (282)",
+          "name": "Glory Be to God the Father (213)",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +31,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Hebrews 12:12-17",
-          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A12-17&version=ESV"
+          "name": "Micah 6:6-8",
+          "href": "https://www.biblegateway.com/passage/?search=Micah+6%3A6-8&version=ESV"
         }
       ]
     },
@@ -44,8 +44,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Isaiah 59:1-2",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+59%3A1-2&version=ESV"
+          "name": "1 John 1:7",
+          "href": "https://www.biblegateway.com/passage/?search=1+John+1%3A7&version=ESV"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "Psalm 29-B",
+          "name": "Father, Long Before Creation (242)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,12 +79,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Revelation 19:11-16",
-          "href": "https://www.biblegateway.com/passage/?search=Revelation+19%3A11-16&version=ESV"
+          "name": "Acts 15:22-29",
+          "href": "https://www.biblegateway.com/passage/?search=Acts+15%3A22-29&version=ESV"
         },
         {
-          "name": "Exodus 17:8-16",
-          "href": "https://www.biblegateway.com/passage/?search=Exodus+17%3A8-16&version=ESV"
+          "name": "Exodus 18",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+18&version=ESV"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Come, Thou Fount of Every Blessing (429)",
+          "name": "Psalm 87-A",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
