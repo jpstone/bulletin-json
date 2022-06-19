@@ -1,5 +1,5 @@
 {
-  "date": "May 8, 2022",
+  "date": "June 19, 2022",
   "sections": [
     {
       "name": "Salutation",
@@ -9,8 +9,8 @@
       "name": "Call to Worship",
       "links": [
         {
-          "name": "Isaiah 40:27-31",
-          "href": "https://www.biblegateway.com/passage/?search=Isaiah+40%3A27-31&version=ESV"
+          "name": "Psalm 144:1-2",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+144%3A1-2&version=ESV"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "name": "Hymn of Approach",
       "links": [
         {
-          "name": "Psalm 47-A",
+          "name": "Psalm 144A vv. 1-4",
           "href": "https://jpstone.github.io/hymn-of-approach.html"
         }
       ]
@@ -31,8 +31,8 @@
       "name": "Reading of the Law",
       "links": [
         {
-          "name": "Micah 6:8",
-          "href": "https://www.biblegateway.com/passage/?search=Micah+6%3A8&version=ESV"
+          "name": "Psalm 119:9-11",
+          "href": "https://www.biblegateway.com/passage/?search=Psalm+119%3A9-11&version=ESV"
         }
       ]
     },
@@ -44,8 +44,8 @@
       "name": "Assurance of Pardon",
       "links": [
         {
-          "name": "Romans 3:19-26",
-          "href": "https://www.biblegateway.com/passage/?search=Romans+3%3A19-26&version=ESV"
+          "name": "Ephesians 2:4-7",
+          "href": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A4-7&version=ESV"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "name": "Hymn of Thanksgiving",
       "links": [
         {
-          "name": "In Christ Alone (265)",
+          "name": "Blessed are the Sons of God (461)",
           "href": "https://jpstone.github.io/hymn-of-thanksgiving.html"
         }
       ]
@@ -79,8 +79,12 @@
       "name": "God's Word Read",
       "links": [
         {
-          "name": "Luke 2:21-35",
-          "href": "https://www.biblegateway.com/passage/?search=Luke+2%3A21-35&version=ESV"
+          "name": "Hebrews 12:25-29",
+          "href": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A25-29&version=ESV"
+        },
+        {
+          "name": "Exodus 20:22-26",
+          "href": "https://www.biblegateway.com/passage/?search=Exodus+20%3A22-26&version=ESV"
         }
       ]
     },
@@ -88,7 +92,7 @@
       "name": "Hymn of Response",
       "links": [
         {
-          "name": "Psalm 46-C",
+          "name": "Psalm 144A vv. 5-8",
           "href": "https://jpstone.github.io/hymn-of-response.html"
         }
       ]
